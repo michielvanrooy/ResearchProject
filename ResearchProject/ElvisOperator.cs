@@ -106,8 +106,6 @@
         }
     }
 
-
-
     public class ResultModel
     {
         public bool? ResultIsNull1 { get; set; }
