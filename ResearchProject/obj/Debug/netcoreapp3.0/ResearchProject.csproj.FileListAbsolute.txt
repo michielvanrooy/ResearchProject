@@ -1,0 +1,11 @@
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.exe
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.deps.json
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.runtimeconfig.json
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.runtimeconfig.dev.json
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.dll
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\bin\Debug\netcoreapp3.0\ResearchProject.pdb
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\obj\Debug\netcoreapp3.0\ResearchProject.csprojAssemblyReference.cache
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\obj\Debug\netcoreapp3.0\ResearchProject.AssemblyInfoInputs.cache
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\obj\Debug\netcoreapp3.0\ResearchProject.AssemblyInfo.cs
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\obj\Debug\netcoreapp3.0\ResearchProject.dll
+C:\Solutions\ResearchProject\ResearchProject\ResearchProject\obj\Debug\netcoreapp3.0\ResearchProject.pdb
